@@ -332,5 +332,3 @@ You can extend the project by:
 ## Summary
 
 This repository implements an end-to-end workflow for Fashion-MNIST classification using a deep CNN in PyTorch. It is a strong example of a compact, organized machine learning project with data preprocessing, training, validation, early stopping, checkpointing, and metrics analysis all integrated into a modular codebase.
-
-If you want, I can also generate a more polished GitHub-style README with badges, screenshots, and a project architecture diagram, or tailor it specifically for a portfolio or academic project presentation.
